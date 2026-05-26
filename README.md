@@ -41,7 +41,7 @@ This project is a demonstration of low-level Win32 systems programming. It utili
 
 ## 🚀 Installation & Usage
 1. Go to the **[Releases](../../releases)** page.
-2. Download `GMonitor.exe`.
+2. Download `GMonitor-Win32.exe`.
 3. Double-click the executable. The overlay will instantly appear in the top-left corner of your primary monitor. 
 
 *(Note: Because this is a custom unsigned C binary, Windows SmartScreen may flag it. Click `More Info` -> `Run Anyway` to launch it).*
